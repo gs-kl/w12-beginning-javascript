@@ -34,8 +34,8 @@ sum = 0;
 for (i = 0; i < ages.length; i++) {
   sum += ages[i];
 }
-median = sum / ages.length
-console.log(median);
+average = sum / ages.length
+console.log(average);
 
 
 
